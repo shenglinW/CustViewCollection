@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CustomTextView">
+        <attr name="normalBackground" format="color|reference"/>
+        <attr name="disableBackground" format="color|reference"/>
+        <attr name="pressedBackground" format="color|reference"/>
+        <attr name="selectedBackground" format="color|reference"/>
+    </declare-styleable>
+</resources>

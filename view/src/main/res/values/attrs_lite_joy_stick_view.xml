@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LiteJoyStickView">
+        <attr name="innerRadius" format="dimension"/>
+        <attr name="outerRadius" format="dimension"/>
+        <attr name="stickStartColor" format="color"/>
+        <attr name="stickEndColor" format="color"/>
+        <attr name="backgroundStartColor" format="color"/>
+        <attr name="backgroundEndColor" format="color"/>
+        <attr name="selectColor" format="color"/>
+    </declare-styleable>
+</resources>
